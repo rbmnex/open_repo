@@ -1,1 +1,1 @@
-Ini awal commit
+Ini  training sppip menggunakan git
