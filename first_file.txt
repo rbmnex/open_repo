@@ -1,1 +1,7 @@
+
 Ini  training sppip menggunakan git
+
+Ini awal commit
+
+ini perubahan pertama.
+
